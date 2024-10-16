@@ -1,0 +1,23 @@
+criaCartao(
+    'O DESCOBRIMENTO',
+    'EM QUE ANO O BRASIL FOI DESCOBERTO?',
+    '1500'
+)
+
+criaCartao(
+    'O DESCOBRIMENTO',
+    'QUEM DESCOBRIU O BRASIL?',
+    'PEDRO ALVARES CABRAL'
+)
+
+criaCartao(
+    'O DESCOBRIMENTO',
+    'QUEM COLONIZOU O BRASIL?',
+    'PORTUGAL'
+)
+
+criaCartao(
+    'O DESCOBRIMENTO',
+    'QUEM CHEGOU PRIMEIRO?',
+    'OS INDIOS'
+)
